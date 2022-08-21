@@ -1,0 +1,37 @@
+2022-08-21 15:18:52:1852 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 15:20:38:2038 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 15:20:38:2038 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 15:21:37:2137 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 15:21:37:2137 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 15:24:05:245 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 15:24:05:245 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 15:24:25:2425 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 15:24:25:2425 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 15:42:36:4236 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 15:42:36:4236 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 15:42:45:4245 - [35mhttp[39m: [35mGET /api/teste 200 22 - 1.946 ms[39m
+[35m[39m
+2022-08-21 15:43:26:4326 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 15:43:26:4326 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 15:43:29:4329 - [35mhttp[39m: [35mGET /api/teste 200 22 - 1.855 ms[39m
+[35m[39m
+2022-08-21 16:13:26:1326 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 16:13:26:1326 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 16:13:54:1354 - [35mhttp[39m: [35mPOST /api/movie 200 21 - 2.635 ms[39m
+[35m[39m
+2022-08-21 16:17:03:173 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 16:17:03:173 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 16:17:05:175 - [35mhttp[39m: [35mPOST /api/movie 200 21 - 3.784 ms[39m
+[35m[39m
+2022-08-21 16:32:23:3223 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 16:32:23:3223 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 16:34:47:3447 - [35mhttp[39m: [35mPOST /api/movie 201 - - 1.640 ms[39m
+[35m[39m
+2022-08-21 16:35:53:3553 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 16:35:53:3553 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 16:36:03:363 - [35mhttp[39m: [35mPOST /api/movie 201 160 - 29.127 ms[39m
+[35m[39m
+2022-08-21 16:41:20:4120 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-21 16:41:20:4120 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-21 16:42:07:427 - [35mhttp[39m: [35mPOST /api/movie 201 256 - 27.196 ms[39m
+[35m[39m

@@ -4,4 +4,5 @@ const dbPassword = process.env.DB_PASSWORD;
 export default {
   port: 3000,
   dbUri: `mongodb+srv://${dbUser}:${dbPassword}@cluster0.vowrfwc.mongodb.net/myDataBase?retryWrites=true&w=majority`,
+  env: "development",
 };

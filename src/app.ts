@@ -12,12 +12,19 @@ const port = config.get<number>("port");
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-//Importin db
+//Importing db
 import db from "../config/db";
 
+//Logger
+import Logger from "../config/logger";
+
+//Middlewares
+import morganMiddleware from "./middleware/morganMiddleware";
+
+app.use(morganMiddleware);
 app.use("/api", router);
 
 app.listen(3000, async () => {
   await db();
-  console.log("aplication is running on port: " + port);
+  Logger.info("aplication is running on port: " + port);
 });
