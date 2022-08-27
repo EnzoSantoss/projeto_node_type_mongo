@@ -35,3 +35,105 @@
 2022-08-21 16:41:20:4120 - [32minfo[39m: [32maplication is running on port: 3000[39m
 2022-08-21 16:42:07:427 - [35mhttp[39m: [35mPOST /api/movie 201 256 - 27.196 ms[39m
 [35m[39m
+2022-08-26 19:54:37:5437 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 19:54:37:5437 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 19:54:40:5440 - [35mhttp[39m: [35mPOST /api/movie 201 256 - 39.875 ms[39m
+[35m[39m
+2022-08-26 20:22:57:2257 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:22:57:2257 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:26:58:2658 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:26:58:2658 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:27:13:2713 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:27:13:2713 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:27:32:2732 - [35mhttp[39m: [35mPOST /api/movie 422 48 - 5.403 ms[39m
+[35m[39m
+2022-08-26 20:30:12:3012 - [35mhttp[39m: [35mPOST /api/movie 201 253 - 38.530 ms[39m
+[35m[39m
+2022-08-26 20:30:30:3030 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:30:30:3030 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:30:33:3033 - [35mhttp[39m: [35mPOST /api/movie 201 253 - 27.466 ms[39m
+[35m[39m
+2022-08-26 20:30:44:3044 - [35mhttp[39m: [35mPOST /api/movie 422 55 - 1.022 ms[39m
+[35m[39m
+2022-08-26 20:33:34:3334 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:33:34:3334 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:34:07:347 - [35mhttp[39m: [35mPOST /api/movie 422 60 - 4.487 ms[39m
+[35m[39m
+2022-08-26 20:36:32:3632 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:36:32:3632 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:36:36:3636 - [35mhttp[39m: [35mPOST /api/movie 422 60 - 5.606 ms[39m
+[35m[39m
+2022-08-26 20:36:41:3641 - [35mhttp[39m: [35mPOST /api/movie 201 254 - 25.682 ms[39m
+[35m[39m
+2022-08-26 20:36:54:3654 - [35mhttp[39m: [35mPOST /api/movie 422 79 - 1.971 ms[39m
+[35m[39m
+2022-08-26 20:48:04:484 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:48:04:484 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:52:59:5259 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:52:59:5259 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:54:02:542 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:54:02:542 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:54:44:5444 - [35mhttp[39m: [35mPOST /api/movie/63028923201871f1f67c8b31 404 174 - 1.447 ms[39m
+[35m[39m
+2022-08-26 20:54:53:5453 - [35mhttp[39m: [35mGET /api/movie/63028923201871f1f67c8b31 200 181 - 38.552 ms[39m
+[35m[39m
+2022-08-26 20:54:58:5458 - [35mhttp[39m: [35mGET /api/movie/63028923201871f1f67c8b32 404 46 - 15.732 ms[39m
+[35m[39m
+2022-08-26 20:55:01:551 - [35mhttp[39m: [35mGET /api/movie/63028923201871f1f67c8b31 200 181 - 12.914 ms[39m
+[35m[39m
+2022-08-26 20:58:36:5836 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:58:36:5836 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:59:31:5931 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 20:59:31:5931 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 20:59:42:5942 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "allMovies" (type string) at path "_id" for model "Movie"[39m
+2022-08-26 20:59:44:5944 - [35mhttp[39m: [35mGET /api/movie/allMovies - - - - ms[39m
+[35m[39m
+2022-08-26 21:00:44:044 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "allMovies" (type string) at path "_id" for model "Movie"[39m
+2022-08-26 21:00:55:055 - [35mhttp[39m: [35mGET /api/movie/allMovies - - - - ms[39m
+[35m[39m
+2022-08-26 21:01:56:156 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 21:01:56:156 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 21:04:25:425 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "allMovies" (type string) at path "_id" for model "Movie"[39m
+2022-08-26 21:05:12:512 - [35mhttp[39m: [35mGET /api/movie/allMovies - - - - ms[39m
+[35m[39m
+2022-08-26 21:05:24:524 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 21:05:24:524 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 21:05:30:530 - [35mhttp[39m: [35mGET /api/movie/allMovies 200 1460 - 63.670 ms[39m
+[35m[39m
+2022-08-26 21:05:51:551 - [35mhttp[39m: [35mGET /api/movie/6309579821db91c9cf9d0b10 200 263 - 10.673 ms[39m
+[35m[39m
+2022-08-26 21:32:10:3210 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 21:32:10:3210 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 21:33:49:3349 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 21:33:49:3349 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 21:34:41:3441 - [35mhttp[39m: [35mDELETE /api/movie/63028923201871f1f67c8b31 200 40 - 25.933 ms[39m
+[35m[39m
+2022-08-26 21:43:21:4321 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 21:43:21:4321 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 21:46:48:4648 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 21:46:48:4648 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 21:48:21:4821 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 21:48:21:4821 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 21:49:29:4929 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 21:49:29:4929 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 21:49:46:4946 - [35mhttp[39m: [35mDELETE /api/movie/63028923201871f1f67c8b31 200 40 - 18.362 ms[39m
+[35m[39m
+2022-08-26 21:49:49:4949 - [35mhttp[39m: [35mDELETE /api/movie/63028923201871f1f67c8b31 200 40 - 12.974 ms[39m
+[35m[39m
+2022-08-26 21:49:59:4959 - [35mhttp[39m: [35mPATCH /api/movie/63028923201871f1f67c8b31 404 31 - 9.433 ms[39m
+[35m[39m
+2022-08-26 21:49:59:4959 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+2022-08-26 21:51:19:5119 - [35mhttp[39m: [35mPATCH /api/movie/63028a8fced4c006abb6157b 200 199 - 36.641 ms[39m
+[35m[39m
+2022-08-26 21:58:39:5839 - [35mhttp[39m: [35mPATCH /api/movie/63028a8fced4c006abb6157b 200 187 - 22.917 ms[39m
+[35m[39m
+2022-08-26 22:01:11:111 - [35mhttp[39m: [35mPATCH /api/movie/63028a8fced4c006abb6157b 200 128 - 20.408 ms[39m
+[35m[39m
+2022-08-26 22:02:03:23 - [32minfo[39m: [32mBanco de dados conetado com sucesso[39m
+2022-08-26 22:02:03:23 - [32minfo[39m: [32maplication is running on port: 3000[39m
+2022-08-26 22:02:08:28 - [35mhttp[39m: [35mPATCH /api/movie/63028a8fced4c006abb6157b 422 55 - 6.076 ms[39m
+[35m[39m
+2022-08-26 22:02:42:242 - [35mhttp[39m: [35mPATCH /api/movie/63028a8fced4c006abb6157b 422 79 - 1.543 ms[39m
+[35m[39m
+2022-08-26 22:03:10:310 - [35mhttp[39m: [35mPATCH /api/movie/63028a8fced4c006abb6157b 200 146 - 43.854 ms[39m
+[35m[39m
